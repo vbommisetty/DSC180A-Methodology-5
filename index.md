@@ -1,7 +1,4 @@
 ---
-layout: default
-title: DSC180A Methodology 5
----
 
 #  Methodology Assignment 5
 
